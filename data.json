@@ -1,0 +1,44 @@
+{
+  "cricket":[
+    {"q":"Who won the 2019 Cricket World Cup?", "a":["England", "New Zealand", "Australia", "West Indies"], "c":"New Zealand"},
+    {"q":"What was the highest score made by Sachin Tendulkar in Test cricket?", "a":["400", "500", "600", "700"], "c":"400"},
+    {"q":"Who scored the fastest century in One Day Internationals?", "a":["Brendon McCullum", "AB de Villiers", "Chris Gayle", "Shahid Afridi"], "c":"Brendon McCullum"},
+    {"q":"Who holds the record for the most number of test centuries?", "a":["Sachin Tendulkar", "Ricky Ponting", "Steve Waugh", "Greg Chappell"], "c":"Ricky Ponting"},
+    {"q":"Which team has won the IPL the most times?", "a":["Chennai Super Kings", "Mumbai Indians", "Delhi Capitals", "Kolkata Knight Riders"], "c":"Chennai Super Kings"}
+  ],
+  "history":[
+    {"q":"some history question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"}
+  ],
+  "gk":[
+    {"q":"some gk here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"}
+  ],
+  "entertainment":[
+    {"q":"some shit here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"}
+  ],
+  "movies":[
+    {"q":"some movies here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"}
+  ],
+  "":[
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"},
+    {"q":"some question here","a":["answer1","answer2","answer3","answer4"],"c":"answer2"}
+  ]
+}
